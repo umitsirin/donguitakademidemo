@@ -14,6 +14,7 @@ export default defineConfig(({ mode }) => {
     const env = loadEnv(mode, (process as any).cwd ? (process as any).cwd() : '.');
 
     return {
+        base: '/donguitakademidemo/',
       server: {
         port: 3000,
         host: '0.0.0.0',
