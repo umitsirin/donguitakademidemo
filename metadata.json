@@ -1,0 +1,8 @@
+{
+  "name": "Döngü Akademi Plus",
+  "description": "Yapay zeka destekli öğrenme asistanı ile üst düzey teknoloji eğitimleri sunan premium eğitim platformu.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

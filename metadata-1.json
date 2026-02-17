@@ -1,0 +1,9 @@
+
+{
+  "name": "Döngü Akademi Plus",
+  "description": "A premium educational platform offering high-end technology courses with an AI-integrated learning assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
